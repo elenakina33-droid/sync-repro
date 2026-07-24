@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 993500625419505665,
+      "job_id": "71ae3404-be6c-4409-bc96-726feae6bb07",
+      "query": "REPLICATE [auftrko] SELECT * FROM [informix].[auftrko]",
+      "is_active": true
+    },
+    {
+      "id": 993500625419505669,
+      "job_id": "71ae3404-be6c-4409-bc96-726feae6bb07",
+      "query": "REPLICATE [auftrpo] SELECT * FROM [informix].[auftrpo]",
+      "is_active": true
+    },
+    {
+      "id": 993500625419505673,
+      "job_id": "71ae3404-be6c-4409-bc96-726feae6bb07",
+      "query": "REPLICATE [dispo] SELECT * FROM [informix].[dispo]",
+      "is_active": true
+    }
+  ]
+}

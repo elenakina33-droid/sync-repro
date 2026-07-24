@@ -1,0 +1,24 @@
+{
+  "id": "50ab3fd7-300c-4363-b0dc-bd3fdd6c3d11",
+  "display_name": "sql",
+  "name": "sql",
+  "connector": {
+    "name": "SQL Server",
+    "version": "latest"
+  },
+  "properties": {
+    "Server": "localhost",
+    "Database": "elena",
+    "Password": "SECURE:3e1OVKoWl4jIotKTVZ8i82xb2TcWplFJOSc63Kgn3BAv6K79O18rMwhjpwPpqDHCNA8aUml4UP4EozUNvjY=",
+    "Port": "58852",
+    "TrustServerCertificate": "True",
+    "User": "admin"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 0
+  }
+}

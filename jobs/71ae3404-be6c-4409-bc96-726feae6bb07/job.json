@@ -1,0 +1,48 @@
+{
+  "id": "71ae3404-be6c-4409-bc96-726feae6bb07",
+  "name": "Infor",
+  "pipeline_id": null,
+  "type": 11,
+  "source_connector": "informivnat",
+  "destination_connector": "sql",
+  "schedule": {
+    "enabled": false,
+    "cron": "*/10 * * * ?"
+  },
+  "alerts": {
+    "send_email": false,
+    "email_to": "",
+    "email_error_only": false
+  },
+  "properties": {
+    "enable_parallel_processing": true,
+    "worker_pool": 3,
+    "verbosity": 5,
+    "destination_schema": "cdc",
+    "automatic_job_retry": true
+  },
+  "replicate_options": {
+    "replicate_start_date": null,
+    "replicate_interval": 180,
+    "replicate_interval_unit": "days",
+    "snapshot_size": "1000000",
+    "skip_snapshot": "true",
+    "alter_schema": true,
+    "drop_table": false,
+    "truncate_table_data": false,
+    "table_name_prefix": "",
+    "table_name_suffix": "",
+    "continue_on_error": true,
+    "deletion_behavior": "SoftDelete",
+    "insert_mode": "FilePerBatch",
+    "auto_truncate_Strings": true,
+    "use_gmt_datetime": false,
+    "command_timeout": 300,
+    "additional_options": ""
+  },
+  "events": {
+    "pre_job": null,
+    "post_job": null
+  },
+  "labels": []
+}

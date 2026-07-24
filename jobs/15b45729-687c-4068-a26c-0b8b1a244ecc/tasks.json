@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 987458629588357121,
+      "job_id": "15b45729-687c-4068-a26c-0b8b1a244ecc",
+      "query": "REPLICATE [Customers6] SELECT top(1), * FROM [dbo].[Customers5] limit 1",
+      "is_active": true
+    }
+  ]
+}

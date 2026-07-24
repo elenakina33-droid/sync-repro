@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 986431370442182657,
+      "job_id": "9f8734e6-daac-4de8-8453-4955a4114891",
+      "query": "Replicate [dfd] SELECT [Date Modified] AS [LAST_MODIFIED], [Eloqua Contact ID] AS [CONTACT_ID], \n[Email Address] AS [EMAIL_ADDRESS], [IS BOUNCED] AS [IS_BOUNCED] FROM [Contact] WHERE [IS BOUNCED] = 'true'",
+      "is_active": true
+    },
+    {
+      "id": 986444512207441921,
+      "job_id": "9f8734e6-daac-4de8-8453-4955a4114891",
+      "query": "REPLICATE [Contact] SELECT * FROM [Contact]",
+      "is_active": true
+    }
+  ]
+}

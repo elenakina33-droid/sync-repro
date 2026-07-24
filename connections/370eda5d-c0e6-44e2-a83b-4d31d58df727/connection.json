@@ -1,0 +1,21 @@
+{
+  "id": "370eda5d-c0e6-44e2-a83b-4d31d58df727",
+  "display_name": "ac",
+  "name": "ac",
+  "connector": {
+    "name": "CData AzureAD",
+    "version": "latest"
+  },
+  "properties": {
+    "AuthScheme": "AzureAD",
+    "DefaultGroups": "AllGroups",
+    "DefaultUser": "AllUsers"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 1
+  }
+}

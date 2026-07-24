@@ -1,0 +1,24 @@
+{
+  "id": "52c6e3bc-45b2-4a77-8115-2aaf6a836b1f",
+  "display_name": "INFORMIVnat",
+  "name": "informivnat",
+  "connector": {
+    "name": "Informix",
+    "version": "latest"
+  },
+  "properties": {
+    "Database": "testdb",
+    "Password": "SECURE:g0bK241Pf7CqZ1p6clfbzfcRnNDWbfT824D1E5MeGImqmutcwPpNtREaWbWEMww5e5rwbafMsrc=",
+    "Port": "9088",
+    "DELIMIDENT": "y",
+    "Host": "localhost",
+    "User": "informix"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 0
+  }
+}

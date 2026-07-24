@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 999372503312896001,
+      "job_id": "89600bbb-e84c-4833-9ec2-eaa2e208892d",
+      "query": "REPLICATE [dbo].[TEST_ICC] WITH enableparallelreadpartitioning = 'false', IncrementalCheckColumns = 'LAST_MODIFIED' SELECT * FROM [SYSTEM].[TEST_ICC]",
+      "is_active": true
+    },
+    {
+      "id": 999375435714400257,
+      "job_id": "89600bbb-e84c-4833-9ec2-eaa2e208892d",
+      "query": "REPLICATE [dbo].[TEST004FORBUG] WITH IncrementalCheckColumns = 'INSERTED' SELECT * FROM [SYSTEM].[TEST004FORBUG]",
+      "is_active": true
+    }
+  ]
+}

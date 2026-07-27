@@ -10,11 +10,11 @@
     "Server": "localhost",
     "AuthScheme": "Password",
     "Database": "CDC",
-    "Password": "SECURE:9dUpjeztBrx7dAbU7dVORQu1x/uXf2DTvzyaXGYUydtOjGwSYFfw9Zvni4Ae+4KyoZONvMLf6oQtn7/Y",
+    "Password": "SECURE:ktSZR3yTNukCNeoVdhh8Ng+tNjoJ789xB9qGmhviw9KNrz8ERVB9bup0Lpgy01ydABpRr69biWQJRZYV",
     "Port": "58852",
     "Encrypt": "False",
     "UseSSH": "False",
-    "SSLClientCert": "SECURE:KXeqDPSVOSL6PaEhNcbqtlOfDsfI0Gc521gUIXlQsvhDiE24kwNqhaMtqG7EPy/03GHSo/FN3kgezKgWd9pa1CbMfkvC4GCQ+jM2g3MLnX32g9NPG/mpwvzB8yw=",
+    "SSLClientCert": "SECURE:3pxFmsQ0Y8UWJXGnLz7ytr3aKUklzhF+4ybKrY2Au0gGMK3hjyGY1S7439Xc1Ws8Lj1Uk5giWLhb9wER4iHycjHEzgiD1tBBhgEE0aqcVvGPF0u0xVPOEtyr75g=",
     "User": "admin"
   },
   "labels": [],

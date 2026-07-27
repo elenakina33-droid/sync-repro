@@ -7,7 +7,7 @@
   "destination_connector": "sql",
   "schedule": {
     "enabled": false,
-    "cron": null
+    "cron": ""
   },
   "alerts": {
     "send_email": false,

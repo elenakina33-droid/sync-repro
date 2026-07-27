@@ -1,6 +1,6 @@
 {
   "id": "90f2f68b-a0c9-479d-a1b4-013c36a59290",
-  "display_name": "Oraaaq",
+  "display_name": "Oraaaqq",
   "name": "oraaa",
   "connector": {
     "name": "CData Oracle",
@@ -8,8 +8,8 @@
   },
   "properties": {
     "Server": "localhost",
-    "Password": "SECURE:IeLMFxnxkjNlFf2Zf4fZUhMkhs5YVKQz6+tAuNhqvOLQvlneFmjZb4NDe2TyTcqpccivh9Ec42OC",
-    "NativeFolder": "C:\\ProgramData\\CData\\sync\\libs\\oracleoci\\9210\\x64",
+    "Password": "SECURE:JESN1bKVijHHZhnEUzFw8/0BmH1RkE7zvdyLIbKQtVgFhQuc6ZzZGRxQzPZ+M5G34Tind76TttAv",
+    "NativeFolder": "C:\\ProgramData\\CData\\sync\\libs\\oracleoci\\9694\\x64",
     "ServiceName": "XEPDB1",
     "ConnectionType": "Server",
     "User": "SYSTEM"

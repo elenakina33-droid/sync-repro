@@ -8,8 +8,8 @@
   },
   "properties": {
     "Server": "localhost",
-    "Password": "SECURE:MfpQcUeUCoQJtJycxF44O/+tAIoFMwvEXmSpbW9keQRTPZAONUJhPkAjPcMA7oZBpirVyrqm5z4C",
-    "NativeFolder": "C:\\ProgramData\\CData\\sync\\libs\\oracleoci\\9210\\x64",
+    "Password": "SECURE:mmaSfRfVZQrMo82ppIlYVYgUHbIvwbnpYUEaYEHZF+fnfOw9ZqlUogFJVQiY1oWFa0IJXwhs8Y8O",
+    "NativeFolder": "C:\\ProgramData\\CData\\sync\\libs\\oracleoci\\9694\\x64",
     "ServiceName": "XEPDB1",
     "ConnectionType": "Server",
     "User": "SYSTEM"

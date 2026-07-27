@@ -9,7 +9,7 @@
   "properties": {
     "Server": "localhost",
     "Database": "elena",
-    "Password": "SECURE:3e1OVKoWl4jIotKTVZ8i82xb2TcWplFJOSc63Kgn3BAv6K79O18rMwhjpwPpqDHCNA8aUml4UP4EozUNvjY=",
+    "Password": "SECURE:52ZgXrgZBmQzFxbAkaMPxpW4eOIFsWj0kw7c0O8kYCYsD90LK6ozchRDtR4pYzoidpYM6w9uDtfTTLJkJ2c=",
     "Port": "58852",
     "TrustServerCertificate": "True",
     "User": "admin"

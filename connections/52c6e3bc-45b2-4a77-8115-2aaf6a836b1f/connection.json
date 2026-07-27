@@ -8,7 +8,7 @@
   },
   "properties": {
     "Database": "testdb",
-    "Password": "SECURE:g0bK241Pf7CqZ1p6clfbzfcRnNDWbfT824D1E5MeGImqmutcwPpNtREaWbWEMww5e5rwbafMsrc=",
+    "Password": "SECURE:BABCzb1+ZOKibBH0xDbqaiaclj7lDJw3faYkwS8Lvc1WIkuFYmnRmN3Ez9H81Apbmxxpl/yXiw0=",
     "Port": "9088",
     "DELIMIDENT": "y",
     "Host": "localhost",
